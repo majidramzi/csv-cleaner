@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520" fill="none">
+  <rect width="960" height="520" rx="16" fill="#0F172A"/>
+  <rect x="16" y="16" width="928" height="44" rx="10" fill="#1E293B"/>
+  <rect x="32" y="26" width="24" height="24" rx="6" fill="#4F46E5"/>
+  <text x="66" y="43" fill="#F8FAFC" font-family="system-ui, sans-serif" font-size="15" font-weight="700">CSV Cleaner — Local Browser Workbench</text>
+  <rect x="370" y="27" width="210" height="22" rx="11" fill="#064E3B"/>
+  <text x="386" y="42" fill="#6EE7B7" font-family="system-ui, sans-serif" font-size="11" font-weight="600">100% Local Browser Processing</text>
+  <rect x="854" y="26" width="74" height="24" rx="6" fill="#4F46E5"/>
+  <text x="872" y="42" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Export</text>
+
+  <!-- KPI Row -->
+  <rect x="16" y="74" width="176" height="68" rx="10" fill="#1E293B"/>
+  <text x="30" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Rows</text>
+  <text x="30" y="124" fill="#F8FAFC" font-family="monospace" font-size="22" font-weight="700">25</text>
+  <text x="72" y="122" fill="#FBBF24" font-family="monospace" font-size="12">-3</text>
+
+  <rect x="204" y="74" width="176" height="68" rx="10" fill="#1E293B"/>
+  <text x="218" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Columns</text>
+  <text x="218" y="124" fill="#F8FAFC" font-family="monospace" font-size="22" font-weight="700">9</text>
+
+  <rect x="392" y="74" width="176" height="68" rx="10" fill="#1E293B"/>
+  <text x="406" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Completeness</text>
+  <text x="406" y="124" fill="#34D399" font-family="monospace" font-size="22" font-weight="700">98.4%</text>
+
+  <rect x="580" y="74" width="176" height="68" rx="10" fill="#1E293B"/>
+  <text x="594" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Exact Duplicates</text>
+  <text x="594" y="124" fill="#34D399" font-family="monospace" font-size="22" font-weight="700">0</text>
+
+  <rect x="768" y="74" width="176" height="68" rx="10" fill="#1E293B"/>
+  <text x="782" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11">Modified Cells</text>
+  <text x="782" y="124" fill="#818CF8" font-family="monospace" font-size="22" font-weight="700">42</text>
+
+  <!-- Sidebar -->
+  <rect x="16" y="156" width="280" height="348" rx="12" fill="#1E293B"/>
+  <text x="34" y="188" fill="#F8FAFC" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Cleaning Operations</text>
+  <rect x="32" y="204" width="248" height="36" rx="8" fill="#312E81"/>
+  <text x="46" y="227" fill="#C7D2FE" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Duplicates • Empty • Text • Columns</text>
+  <rect x="32" y="254" width="248" height="90" rx="8" fill="#0F172A"/>
+  <text x="46" y="278" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12">✓ Trim leading &amp; trailing spaces</text>
+  <text x="46" y="302" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12">✓ Collapse duplicate spaces</text>
+  <text x="46" y="326" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="12">✓ Title Case &amp; Unicode NFC</text>
+  <rect x="32" y="452" width="248" height="36" rx="8" fill="#4F46E5"/>
+  <text x="92" y="475" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Apply Text Cleaning</text>
+
+  <!-- Spreadsheet Preview -->
+  <rect x="310" y="156" width="634" height="348" rx="12" fill="#1E293B"/>
+  <rect x="326" y="172" width="602" height="32" rx="6" fill="#334155"/>
+  <text x="342" y="193" fill="#CBD5E1" font-family="monospace" font-size="12">#   Order ID     Customer Name        Country          Order Total (fx)</text>
+  <rect x="326" y="212" width="602" height="36" rx="4" fill="#064E3B" fill-opacity="0.35"/>
+  <text x="342" y="235" fill="#A7F3D0" font-family="monospace" font-size="12">1   ORD-1001     Alice Johnson        United States    259.98</text>
+  <rect x="326" y="254" width="602" height="36" rx="4" fill="#0F172A" fill-opacity="0.5"/>
+  <text x="342" y="277" fill="#E2E8F0" font-family="monospace" font-size="12">2   ORD-1002     Bob Smith            Canada           182.00</text>
+  <rect x="326" y="296" width="602" height="36" rx="4" fill="#064E3B" fill-opacity="0.35"/>
+  <text x="342" y="319" fill="#A7F3D0" font-family="monospace" font-size="12">3   ORD-1003     Emilie Dupre         France           24.00</text>
+  <rect x="326" y="338" width="602" height="36" rx="4" fill="#0F172A" fill-opacity="0.5"/>
+  <text x="342" y="361" fill="#E2E8F0" font-family="monospace" font-size="12">4   ORD-1004     Carlos Mendez        Spain            299.95</text>
+</svg>
